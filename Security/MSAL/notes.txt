@@ -1,0 +1,9 @@
+﻿
+
+https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/3-WebApp-multi-APIs/README.md
+
+//MSAL: https://docs.microsoft.com/en-us/azure/active-directory/develop/console-app-quickstart?pivots=devlang-dotnet-core
+//https://docs.microsoft.com/en-us/dotnet/api/azure.identity.managedidentitycredential?view=azure-dotnet
+//https://docs.microsoft.com/en-us/dotnet/api/azure.security.keyvault.certificates.certificateclient?view=azure-dotnet
+//https://docs.microsoft.com/en-us/dotnet/api/azure.security.keyvault.certificates.certificateclient.downloadcertificate?msclkid=d60502acd06411ecb747392cf8c8d998&view=azure-dotnet
+//https://stackoverflow.com/questions/54502470/managed-identity-how-to-debug-locally
